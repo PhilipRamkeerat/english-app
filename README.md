@@ -2,26 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
-## Development server
+The project is an interactive English learning platform built using Angular for study purposes.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+It aims to provide an engaging and effective way for users to improve their English language skills.
 
-## Code scaffolding
+The platform will feature a variety of exercises and activities, such as flashcards, quizzes, and games, that will cover different aspects of the English language, including grammar, vocabulary, and pronunciation. Users will be able to track their progress and set goals for themselves.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This definition may be subject to change in the future, it's just a brief summary.
 
-## Build
+Also with the idea of having PT-BR and English language for website navigation.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
